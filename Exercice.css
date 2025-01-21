@@ -1,0 +1,14 @@
+.a{
+    padding: 0;
+    margin: 0;
+    border-top: solid 5px blue;
+    border-left: solid 5px blue;
+    width: 250px;
+    height: 150px;
+}
+.b{
+    width: 250px;
+    height: 270px;
+    border-right: solid 5px green;
+    border-bottom: solid 5px green;
+}
